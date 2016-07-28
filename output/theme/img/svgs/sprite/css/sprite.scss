@@ -1,0 +1,94 @@
+%svg-common {
+	background: url(svg/sprite.css.svg) no-repeat;
+}
+
+.svg-down-arrow {
+	@extend %svg-common;
+	background-position: 0 100%;
+}
+
+.svg-down-arrow-dims {
+	width: 25px;
+	height: 25px;
+}
+
+.svg-instagram {
+	@extend %svg-common;
+	background-position: 0 0;
+}
+
+.svg-instagram-dims {
+	width: 32px;
+	height: 32px;
+}
+
+.svg-linkedin {
+	@extend %svg-common;
+	background-position: 50% 0;
+}
+
+.svg-linkedin-dims {
+	width: 32px;
+	height: 32px;
+}
+
+.svg-mail {
+	@extend %svg-common;
+	background-position: 0 56.14035087719298%;
+}
+
+.svg-mail-dims {
+	width: 32px;
+	height: 32px;
+}
+
+.svg-medium {
+	@extend %svg-common;
+	background-position: 50% 55.08693406782579%;
+}
+
+.svg-medium-dims {
+	width: 32px;
+	height: 30.91px;
+}
+
+.svg-our-work {
+	@extend %svg-common;
+	background-position: 100% 0;
+}
+
+.svg-our-work-dims {
+	width: 32px;
+	height: 32px;
+}
+
+.svg-pin {
+	@extend %svg-common;
+	background-position: 62.5% 87.67123287671232%;
+}
+
+.svg-pin-dims {
+	width: 16px;
+	height: 16px;
+}
+
+.svg-right-arrow {
+	@extend %svg-common;
+	background-position: 35.2112676056338% 100%;
+}
+
+.svg-right-arrow-dims {
+	width: 25px;
+	height: 25px;
+}
+
+.svg-twitter {
+	@extend %svg-common;
+	background-position: 100% 56.14035087719298%;
+}
+
+.svg-twitter-dims {
+	width: 32px;
+	height: 32px;
+}
+
